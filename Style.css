@@ -1,0 +1,12 @@
+body {
+    background-image: url(Img/Napoleon.jpg);
+    color: aliceblue;
+
+}
+section {
+    background-position: 15%;
+} 
+
+.color {
+    color: aliceblue;
+}
